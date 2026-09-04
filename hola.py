@@ -1,1 +1,1 @@
-print("Hola Mundo desde Checo") 
+print("El proyecto de CC va a hacer que me pegue un tiro") 
